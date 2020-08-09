@@ -14,7 +14,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 ##  Natural Language Processing
 
-### 3. [Sentiment Analysis for Youtube video.](https://github.com/Tariq-Anwar/sentiment-analysis-of-YouTube-comments)
+### 1. [Sentiment Analysis for Youtube video.](https://github.com/Tariq-Anwar/sentiment-analysis-of-YouTube-comments)
 By using sentiment analysis and automating this process, you can easily drill down into different customer segments of your business and get a better understanding of sentiment in these segments.
 
 ##  Data Analysis and visulization.
