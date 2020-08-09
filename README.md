@@ -14,7 +14,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 #  Natural Language Processing
 
-## Sentiment Analysis for Youtube video using machine Learning and deep learning.
+## Sentiment Analysis for Youtube video.
 By using sentiment analysis and automating this process, you can easily drill down into different customer segments of your business and get a better understanding of sentiment in these segments.
 
 
