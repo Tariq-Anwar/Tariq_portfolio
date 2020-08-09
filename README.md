@@ -8,13 +8,13 @@ Data Science Portfolio
  
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.Deployed using flask.
 
-#   Car price prediction
+## Car price prediction
  Anyone who has bought or sold a used car will agree that one of the biggest challenge in the trade is estimating a fair and market smart price which would benefit both buyer and the seller. Consequently, other than individuals, automobile manufactures, used cars dealers and loan lending banks would also be interested in a model which would help them predict right price of the car.Deployed using flask
 
 
 #  Natural Language Processing
 
-#   Sentiment Analysis for Youtube video Comments using machine Learning and deep learning.
+## Sentiment Analysis for Youtube video Comments using machine Learning and deep learning.
 By using sentiment analysis and automating this process, you can easily drill down into different customer segments of your business and get a better understanding of sentiment in these segments.
 
 
