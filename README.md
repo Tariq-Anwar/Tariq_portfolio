@@ -2,10 +2,10 @@
 Data Science Portfolio
 
 ##  content
+
 #  Machine Learing
 
 ## House price prediction 
- 
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.Deployed using flask.
 
 ## Car price prediction
@@ -16,7 +16,6 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 ## Sentiment Analysis for Youtube video.
 By using sentiment analysis and automating this process, you can easily drill down into different customer segments of your business and get a better understanding of sentiment in these segments.
-
 
 #  Data Analysis and visulization
 
