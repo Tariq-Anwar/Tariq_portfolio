@@ -24,3 +24,6 @@ By using sentiment analysis and automating this process, you can easily drill do
  
 ### 2. [Jobs Dataset Exploratory Analysis](https://github.com/Tariq-Anwar/Exploratory-Data-Analysis-For-Salary-Estimatore): 
  The distributions of the data and the value counts for the various categorical variables. Using pandas and seaborn visualizations.
+
+### 3. [Exploratory-Data-Analysis-on-FIFA-2019](https://github.com/Tariq-Anwar/Exploratory-Data-Analysis-on-FIFA-2019):
+  Exploratory data analysis to find the top football players based on club.
